@@ -1,0 +1,38 @@
+.server_set input{
+    
+    background-color: white;
+    border: 2px thick;
+    color: black;
+    padding:8px;
+    text-align: center;
+    text-decoration: none;
+    float:left;
+    width:175px;
+}
+
+.server_set input:hover{
+    background-color: #aab7b8;
+    color: black; 
+}
+
+.cast_btn button{
+    background-color: white;
+    border: none;
+    color: black;
+    padding:8px;
+    text-align: center;
+    text-decoration: none;
+    float:center;
+    width:100%;
+}
+
+.cast_btn button:hover {
+    background-color: #aab7b8;
+    color: black; 
+}
+
+
+.cast_btn button:active {
+    background-color: white;
+    color: black; 
+}
