@@ -14,7 +14,7 @@ How To use it:
 
 * Once IP address is entered, the extension will remember it till user decides to change it.
 
-* The extension won't work if user has setup username and password for the kawaii-player server.
+* From kawaii-player v2.9+ onwards, the extension can follow media server authentication done via web interface.  
 
 Installing Extension:
 
