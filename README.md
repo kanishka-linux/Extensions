@@ -1,5 +1,7 @@
 This repository contains [experimental firefox](https://addons.mozilla.org/en-US/firefox/addon/kcast/) and chromium extensions for casting to kawaii-player v2.8+ onwards.
 
+Permission: This extension will require access to tab's current url (so that url can be sent from browser to kawaii-player for direct playing)
+
 How To use it:
 
 * First install [kawaii-player](https://github.com/kanishka-linux/kawaii-player). 
