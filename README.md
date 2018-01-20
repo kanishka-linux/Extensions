@@ -20,6 +20,6 @@ How To use it:
 
 Installing Extension:
 
-* Firefox users can get from [here](https://addons.mozilla.org/en-US/firefox/addon/kcast/)
+* Firefox users can get from [here](https://github.com/kanishka-linux/Extensions/releases).
 
 * Chromium users have to enable developer mode and install the extension externally from chromium-ext directory.
